@@ -1,0 +1,30 @@
+
+#img2{
+width: 50%;
+height: 50;    
+
+}
+#img1{
+
+ width: 50%;
+height: 50; 
+float: right;
+}
+#title{
+
+    text-align: center;
+}
+#fig1,#fig2{
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: large;
+}
+body{
+    background-color: bisque;
+}
+.container{
+    display: flex;
+}
+.containerText{
+    display: flex;
+}
