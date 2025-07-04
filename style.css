@@ -6,6 +6,11 @@ height: 50;
 margin-left: auto;
 margin-right: auto;
 }
+@media(max-width:600px ){
+    #img1{
+        width: 70; 
+    }
+}
 #title{
 
     text-align: center;
@@ -21,9 +26,27 @@ body{
     background-color: #E6F0FA;
 }
 p{
+   
     font-size: large;
     font-style: italic;
     font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(68, 57, 100);
+    text-align: center;
+}
+p:hover{
+    background-color: rgb(150, 131, 68);
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(29, 11, 83);
+    text-align: center;
+}
+#icon1{
+    width: 3%;
+}
+#icon2#icon3{
+    width: 5%;
+    
 }
