@@ -23,6 +23,7 @@ margin-right: auto;
     font: large;
 }
 body{
+    
     background-color: #E6F0FA;
 }
 p{
@@ -35,7 +36,7 @@ p{
     text-align: center;
 }
 p:hover{
-    background-color: rgb(150, 131, 68);
+    background-color: #ffffff;
 }
 h3{
     font-family: 'Courier New', Courier, monospace;
@@ -44,9 +45,37 @@ h3{
     text-align: center;
 }
 #icon1{
-    width: 3%;
+    width: 2%;
 }
-#icon2#icon3{
-    width: 5%;
+#icon2{
+    width: 2%;
+    
     
 }
+#icon3{
+width: 2%;
+}
+#section2{
+    text-align: center;
+    
+}
+
+button{
+    text-align: center;
+    background-color: rgb(18, 7, 66);
+    color: #E6F0FA;
+    padding: 10px;
+    border-radius: 10px;
+}
+#section3{
+    display: flex;
+}
+footer {
+  background-color: #bbabe7;
+  padding: 20px;
+
+}
+a{
+    padding: 5px;
+}
+
